@@ -10,6 +10,9 @@ Santos Platform is a cloud-based software platform that provides citizens, who a
 Safety reports can be shared easily amongst citizens and city officials.
 
 ## Identifying near miss incidents can be informative without the injury or loss of life.
+
+<center><img src="img/near-miss-clip-harvey-night.png" width="400" alt="A close call incident between pedestrians crossing during a do-not-walk phase and a vehicle turning right"></center>
+
 Near-collision events are more frequent and their analysis is more useful than actual crash statistics in detecting systemic safety problems.
 
 ## Visual traffic data can be recorded from phone cameras, GoPros, or home security cameras.
