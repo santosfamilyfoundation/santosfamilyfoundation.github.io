@@ -11,7 +11,7 @@ Safety reports can be shared easily amongst citizens and city officials.
 
 <center><img src="img/safety-report-mockup.png" width="450" alt="An example of how the quantitative evidence about an intersection is presented to citizens and city officials alike"></center><br/>
 
-## Identifying near miss incidents can be informative without the injury or loss of life.
+## Identifying near miss incidents can be informative without injury or loss of life.
 Near-collision events are more frequent and their analysis is more useful than actual crash statistics in detecting systemic safety problems.
 
 <center><img src="img/near-miss-clip-harvey-night.png" width="450" alt="A close call incident between pedestrians crossing during a do-not-walk phase and a vehicle turning right"></center><br/>
