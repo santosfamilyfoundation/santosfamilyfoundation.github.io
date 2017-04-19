@@ -13,6 +13,6 @@ permalink: /users/
 <br/>
 
 <center>
-<img src="/img/newton_logo.png" width="300">
+<img src="/img/newton_logo.png" width="300" style="margin-bottom:20px">
 <p>Read More about our work with the <a href="/users/newton/">Newton Traffic Department</a></p>
 </center>
