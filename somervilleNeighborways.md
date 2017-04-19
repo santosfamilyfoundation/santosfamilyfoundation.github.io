@@ -8,7 +8,10 @@ permalink: /users/neighborways/
 ## How Neighborways create safer roads in communities
 Neighborways are created by painting streets and doing other interventions with the hopeof calming traffic and getting more people to use the street for walking, playing, biking.
 
-<center><img src="/img/neighborway_mural.jpg"></center><br/>
+<center>
+<img src="/img/neighborway_mural.jpg">
+<p>Willoughby Street: Somerville's First Neighborway! <a href="http://www.somervillestreets.com/2017-2018.html">(Source: Somerville Streets)</a></p>
+</center><br/>
 
 Side-streets that run parallel to major thorough fares are good candidates for becoming a neighborway.  In Somerville, the hope is to turn series of side-streets into neighborways, creating a network of safe streets for non-vehicular traffic. 
 
