@@ -5,7 +5,7 @@ permalink: /guides/datacollection/
 
 # Collecting Data
 
-FIX THIS Start of explanation here or something.
+The most important first step to begin analyzing an intersection is gathering the equipment to record video. While a cell phone camera will likely work from a high enough vantage point of the intersection, this specific hardware guide details a more permanent, off the shelf solution. Each item on this list can be found on Amazon.com or a local hardware store, and should run no more than $150, including a camera.
 
 ## Our Test System
 
