@@ -23,6 +23,11 @@ road users at an intersection. For example, they might create a temporary bump-o
 cars. However, they don't have access to quantitative data that shows the effects of these intervention -- they rely on their own
 observations to determine the effectiveness of the intervention.
 
+<center>
+<img src="/img/Memfix_Bumpout_Cars.jpg">
+<p>An example of a bumpout around a curb that was implemented in Memphis, TN <a href="https://bikepedmemphis.wordpress.com/2013/11/01/memfix-pedestrian-improvements-in-south-memphis/">(Source: MemFix Project)</a></p>
+</center>
+
 They need a system that will give them powerful, quantitative metrics in order for them to make smart decisions about interventions
 that should become permanent. Our system can provide these metrics. When they pilot temporary turning lane suggestions, we can produce
 images detailing the trajectories of cars turning left at the intersection before and after the change. When they pilot a bump-out, we
