@@ -7,6 +7,8 @@ permalink: /guides/userguide/
 
 This user guide walks through every step; opening the application, configuring the project, uploading the video for analysis, and viewing the analysis results.
 
+Explanations for the configuration values can be found either in the program with the **?** tooltip, or in the [configuration tables section found here](/guides/userguide/configtables).
+
 ## Installation information
 
 SantosPlatform consists of three parts: SantosCloud, TrafficIntelligence, and SantosGUI. SantosCloud and TrafficIntelligence are meant to be installed on remote servers, and SantosGUI will be installed on the user’s machine. Users can find installation instructions for each component on the respective repository:
@@ -158,62 +160,13 @@ In order to properly track features for the video, the user will have to help th
 
 ### **Step 1: Choose the number of frames to process in the test.**
 
-In order to test the parameter values on a short segment of the video first, the first two boxes on the right hand side of the application control which segment of the video the user will be testing. Descriptions of these two values are included below:
-
-<!-- \begin{table}[H]
-    \centering
-    \begin{tabular}{|p{0.36\textwidth}|p{0.54\textwidth}|}
-        \hline
-        Parameter Name and Sample Value &  Parameter Description \\
-        \hline
-        First frame to process. \newline
-        Starting value: 0 & First frame of the video to be processed. Despite the variable name, frames are indexed at 0 -- if the user wishes to start from the beginning of the video, they will set this parameter to 0. \\
-        \hline
-        Number of frames to process. \newline
-        Starting value: 200 & Number of frames to process. The user will set this so they can see at least a few seconds of video. They will be using this to test the other parameters later. \\
-        \hline
-    \end{tabular}
-\end{table}
-
-TABLE HERE -->
+In order to test the parameter values on a short segment of the video first, the first two boxes on the right hand side of the application control which segment of the video the user will be testing. Descriptions of these two values are included in the [Frames to process table](/guides/userguide/configtables#feature-frames-to-process).
 
 ### **Step 2: Set the feature-tracking parameters.**
 
 Now the user has to help the program figure out how best to track features. These parameters govern how the program tracks features, so this is a very important part of the process. The user can provide sample values to the program for each of these parameters. They must make sure to provide values for each parameter.
 
-The following parameters are related to feature-tracking:
-
-<!-- \begin{table}[H]
-    \centering
-    \begin{tabular}{|p{0.36\textwidth}|p{0.54\textwidth}|}
-        \hline
-        Parameter Name and Sample Value &  Parameter Description \\
-        \hline
-        Maximum number of features. \newline
-        Starting value: 1000 \newline
-        Recommended range: 1000+ & The maximum number of features added at each frame. Note if that there are many moving objects in each frame, and those objects take up a large portion of the frame, this number may be higher. If the user find that not enough features are being tracked, they can increase this parameter. \\
-        \hline
-        Number of displacements. \newline
-        Starting value: 10 \newline
-        Recommended range: 2-15 & 	
-        This parameter helps determine how long features will be tracked. If the user increases this parameter, features will disappear less quickly (i.e., after a few frames). \\
-        \hline
-        Minimum feature displacement. \newline
-        Starting value: 0.0001 \newline
-        Recommended range: 0.0001 to 0.1 & This parameter describes the minimum required displacement to keep a feature (in pixels). If the user has lots of slow-moving (or far-away) objects in their video and find that not enough features are being tracked, they can decrease this parameter. On the other hand, if too many non-road user features are being tracked (i.e., trees swaying in the wind) it may be useful for them to increase this parameter to capture the faster-moving features, which are more likely to belong to road users. \\
-        \hline
-        Maximum number of iterations. \newline
-        Starting value: 200 \newline
-        Recommended range: 10-1000 & This parameter changes how long after a feature continues to persist after the feature stops moving. If the video features many slow-moving objects, or objects that start and stop frequently, the user may want to increase this parameter. \\
-        \hline
-        Minimum number of feature frames. \newline
-        Starting value: 15 \newline
-        Recommended range: 10-25 & The minimum amount of time (in video frames) for which a feature must persist before it is considered in the next steps of the tracking process. The user may want to keep this parameter value fairly high to filter out some of the shorter-lived features (which often belong to non-road user objects, such as moving plants in the video).\\
-        \hline
-    \end{tabular}
-\end{table}
-
-TABLE HERE -->
+The parameters for feature-tracking can be found in the [Feature-tracking parameters](/guides/userguide/configtables#feature-tracking-parameters).
 
 The parameters used for this video are included in the screenshot below:
 
@@ -251,48 +204,13 @@ The screenshot below shows the road-user tracking stage of our application:
 
 ### **Step 1: Set object tracking test length.**
 
-Just as in the “feature-tracking” stage, the user can choose the number of frames to process. If the input here is blank, the entire video will be processed which can take a long time depending on the length of the video. The user can change the amount of video to process with the following parameters:
-
-<!-- \begin{table}[H]
-    \centering
-    \begin{tabular}{|p{0.36\textwidth}|p{0.54\textwidth}|}
-        \hline
-        Parameter Name and Sample Value &  Parameter Description \\
-        \hline
-        First frame to process. \newline
-        Starting value: 0 & First frame of the video to be processed. Despite the variable name, frames are indexed at 0 -- if the user wishes to start from the beginning of the video, they will set this parameter to 0. \\
-        \hline
-        Number of frames to process. \newline
-        Starting value: 200 & Number of frames to process. The user will set this so they can see at least a few seconds of video. They will be using this to test the other parameters later. \\
-        \hline
-    \end{tabular}
-\end{table}
-
-TABLE HERE -->
+Just as in the “feature-tracking” stage, the user can choose the number of frames to process. If the input here is blank, the entire video will be processed which can take a long time depending on the length of the video. The user can change the amount of video to process with the parameters found in the [object frames to process](/guides/userguide/configtables#object-frames-to-process) table.
 
 ### **Step 2: Set grouping parameters.**
 
 Now the user has to help the program figure out how best to group features together into objects. These parameters govern how the program determines what objects are. Provided are sample values to the program for each of these parameters. The user needs to make sure to provide values for each parameter!
 
-The following parameters are related to object-tracking:
-
-<!-- \begin{table}[H]
-    \centering
-    \begin{tabular}{|p{0.36\textwidth}|p{0.54\textwidth}|}
-        \hline
-        Parameter Name and Sample Value &  Parameter Description \\
-        \hline
-        mm-connection-distance \newline
-        Starting value: 1 & Maximum connection distance for feature-grouping. Connection-distance is a threshold; it is the maximum world distance at which two features can be connected to the same object. \newline \par
-        Note that in this example, this does not mean that the maximum size of an object is 1 meter! Rather, this means that a feature greater than 1 meter away from this object cannot be considered a part of this object. \\
-        \hline
-        mm-segmentation-distance. \newline
-        Starting value: 0.7 & Maximum segmentation distance. Segmentation-distance is a threshold; it is the maximum world distance at which two features that are moving relative to each other can be connected to the same object. Again, note that this does not relate to the maximum size of an object. Rather, this means that two features that are moving at different speeds cannot be connected to the same object if they are more than 0.7 meters away from each other. \\
-        \hline
-    \end{tabular}
-\end{table}
-
-TABLE HERE -->
+The parameters for object-tracking can be found in the [object-tracking parameters](/guides/userguide/configtables#object-tracking-parameters) table.
 
 The screenshot below shows these parameter values entered for our example:
 
