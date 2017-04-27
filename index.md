@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# Improving Transportation Safety through Data-Driven Technologies 
+# Improving Transportation Safety through Data-Driven Technologies
 
-Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, bikers, and pedestrians. Realize that every year, there are more than 30,000 traffic fatalities in the United States.  Several of those fatalities might happen this year at the intersections we have in mind.
+Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, bikers, and pedestrians. Every year, there are more than 30,000 traffic fatalities in the United States.  Several of those fatalities might happen this year at the intersections close to our homes, areas we hope to be safe.
 
-People already engaged in improving infrastructure can create safer intersections more quickly if they had access to affordable traffic data.
+People are already engaged in improving infrastructure and can create safer intersections more quickly if they have access to affordable traffic data.
 
 <center>
 <img src="img/advocacy-group.jpg" width="250">
@@ -14,10 +14,20 @@ People already engaged in improving infrastructure can create safer intersection
 </center>
 <br/>
 
-Santos Platform is a cloud-based software platform that provides those who are concerned with traffic safety access to safety metrics from visual traffic data.
+This is where the Santos Platform can make change. This cloud-based software platform provides safety metrics from visual traffic data to those who are concerned with traffic safety. Continue reading below to learn more about the software, or **start using it** by
+- [collecting video](/guides/datacollection/) or
+- [installing the components](/guides/userguide/) on your machine.
+
+If you are a **developer** interested in this open-source project, you can instead check out our
+- [documentation](http://santostraffic.com/SantosCloud/app/static/apidoc/) and
+- [GitHub repo](https://github.com/orgs/santosfamilyfoundation).
+
+As well, we have a number of **pilot programs** starting in the general Boston area. If you are interested in getting involved,
+- [reach out](mailto:{{ site.email }}) to get a project started or
+- [read about our other studies](/users/) and where we are heading.
 
 ## Anyone can participate in collecting metrics that will lead to measurable change
-Our software works with video footage recorded on many different devices.  All someone needs is to start recording from a second-story view point. 
+Our software works with video footage recorded on many different devices.  All someone needs is to start recording from a second-story view point.
 
 <center><img src="img/second-story-viewpoint.png" width="450"></center><br/>
 
@@ -33,4 +43,3 @@ Near-collision events are more frequent and their analysis is more useful than a
 <img src="img/harveynight_highlight_f1.png" width="300" alt="A close call incident between during an unprotected left-turn">
 <img src="img/harveynight_highlight_f2.png" width="300" alt="A close call incident between during an unprotected left-turn">
 </center><br/>
-
