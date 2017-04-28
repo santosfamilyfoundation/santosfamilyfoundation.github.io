@@ -18,9 +18,9 @@ This is where the Santos Platform can make change. This cloud-based software pla
 - [collecting video](/guides/datacollection/) or
 - [installing the components](/guides/userguide/) on your machine.
 
-If you are a **developer** interested in this open-source project, you can instead check out our
-- [documentation](http://santostraffic.com/SantosCloud/app/static/apidoc/) and
-- [GitHub repo](https://github.com/orgs/santosfamilyfoundation).
+If you are a **developer** interested in this open-source project, you can 
+- [visit our page for developers](/contributing/) or 
+- [meetup in person during Code For Boston's Hack Nights](https://www.meetup.com/Code-for-Boston/) if you are located in the Boston or Cambridge area.
 
 As well, we have a number of **pilot programs** starting in the general Boston area. If you are interested in getting involved,
 - [reach out](mailto:{{ site.email }}) to get a project started or
