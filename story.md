@@ -5,11 +5,11 @@ permalink: /story/
 
 # The Development of Santos Traffic Platform
 
-In 2014, the Olin College of Engineering teamed up with the Santos Family Foundation to begin a multi-year project working in the traffic saftey space. The first part of the project began in June of 2014, and laid some of the ground work which future teams would build on. Olin then transfered this project to the Senior Capstone program (SCOPE) in Olin, which meant that 4-6 Seniors would be dedicating a full year of class time on this project. 
+In 2014, the Olin College of Engineering teamed up with the Santos Family Foundation to begin a multi-year project working in the traffic safety space. The first part of the project began in June of 2014, and laid some of the ground work which future teams would build on. Olin then transfered this project to the Senior Capstone program (SCOPE) in Olin, which meant that 4-6 Seniors would be dedicating a full year of class time on this project. 
 
 ## Senior Capstone Project 2014-2015
 
-The 2014-2015 SCOPE Team would begin work by conductng user interviews and determining the best direction to take the project. A majority of the year was spent on narrowing the project definition into something that future teams could begin technical work on. This team discovered intersections to be a major pain point and began ideation on how to work in this space.
+The 2014-2015 SCOPE Team would begin work by conducting user interviews and determining the best direction to take the project. A majority of the year was spent on narrowing the project definition into something that future teams could begin technical work on. This team discovered intersections to be a major pain point and began ideation on how to work in this space.
 
 ## Senior Capstone Project 2015-2016
 
@@ -21,20 +21,20 @@ Our team pick up the project from the stopping point of the 2015-2016 team. We i
 
 ### Our First Traffic Study
 
-We began a traffic study in Needham, MA, first by asking permission of a local shop owner, Harvey's Hardware, to put a camera on top of their roof with view of the intersection. After 24 hours of collecting video data, we went back, removed our installation and began processing our data. We had about 10 hours of usable data from the installion, since it was powered by a battery, and we eventually depleted it. After we had completed several hours of analysis, we took the data to the Needham Heights Neighborhood Association to show them the results of our findings.
+We began a traffic study in Needham, MA, first by asking permission of a local shop owner, Harvey's Hardware, to put a camera on top of their roof with view of the intersection. After 24 hours of collecting video data, we went back, removed our installation and began processing our data. We had about 10 hours of usable data from the installation, since it was powered by a battery, and we eventually depleted it. After we had completed several hours of analysis, we took the data to the Needham Heights Neighborhood Association to show them the results of our findings.
 
-### Seperation of User and Process
+### Separation of User and Process
 
-One of our immediate reactions to the software from the 2015-2016 SCOPE team was the diffuculty of installing both the user interface and the traffic analysis library which was provided by Dr. Saunier. We knew that with the challenges we faced, many potential users would not have finished the installation, or finished the installion, but hit an error which prevents the software from running. To solve this, our team moved the processing and analysis library to a cloud-based platform. No users would be required to download and install this portion of the software. We developed a vagrant image with all the software and dependencies required to make the user interface functional. Using the tornado framework, we developed an API for the user interface to connect to the cloud processing functions. This has several benefits, developers can use the API to make calls to the server and create their own front-end.
+One of our immediate reactions to the software from the 2015-2016 SCOPE team was the difficulty of installing both the user interface and the traffic analysis library which was provided by Dr. Saunier. We knew that with the challenges we faced, many potential users would not have finished the installation, or finished the installation, but hit an error which prevents the software from running. To solve this, our team moved the processing and analysis library to a cloud-based platform. No users would be required to download and install this portion of the software. We developed a vagrant image with all the software and dependencies required to make the user interface functional. Using the tornado framework, we developed an API for the user interface to connect to the cloud processing functions. This has several benefits, developers can use the API to make calls to the server and create their own front-end.
 
 ### Code for Boston
 
 As our project comes to a close, we have looked for interested people who want to continue the technical development of our software. Code for Boston is a group of civic-minded developers who hack on open source projects in their free time. We have approached them about adding the Santos Traffic Platform to their list of projects and the group seems interested. If they decide to adopt this project, development and refinement can continue to to occur, even though the Olin SCOPE program will no longer be working with the software.
 
-### Creating a Kross, a Civic-Focused Comapany
+### Creating a Kross, a Civic-Focused Company
 
 Two members of the 2016-2017 SCOPE team have been accepted into the Summer Venture Program with Babson College. Through this program, these members will create Kross, a business venture utilizing the software created during SCOPE. 
 
 ### Signing on Early Users
 
-The software is avaliable for download and use, and we encourage anyone who is interested in running a study to go ahead and try. Contact us with any questions or comments.
+The software is available for download and use, and we encourage anyone who is interested in running a study to go ahead and try. Contact us with any questions or comments.

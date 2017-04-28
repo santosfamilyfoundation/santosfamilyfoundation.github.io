@@ -25,7 +25,7 @@ observations to determine the effectiveness of the intervention.
 
 <center>
 <img src="/img/Memfix_Bumpout_Cars.jpg">
-<p>An example of a bumpout around a curb that was implemented in Memphis, TN <a href="https://bikepedmemphis.wordpress.com/2013/11/01/memfix-pedestrian-improvements-in-south-memphis/">(Source: MemFix Project)</a></p>
+<p>An example of a bump-out around a curb that was implemented in Memphis, TN <a href="https://bikepedmemphis.wordpress.com/2013/11/01/memfix-pedestrian-improvements-in-south-memphis/">(Source: MemFix Project)</a></p>
 </center>
 
 They need a system that will give them powerful, quantitative metrics in order for them to make smart decisions about interventions

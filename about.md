@@ -11,7 +11,7 @@ These are the current seniors working on the project:
 
 - Sawyer Vaughan
 - Deniz Celik
-- Jacob Reidel
+- Jacob Riedel
 - Philip Seger
 - Ryan Louie
 

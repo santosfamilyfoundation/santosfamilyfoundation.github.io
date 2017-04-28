@@ -6,7 +6,7 @@ permalink: /users/neighborways/
 # Featured User: Somerville Neighborways 
 
 ## How Neighborways create safer roads in communities
-Neighborways are created by painting streets and doing other interventions with the hopeof calming traffic and getting more people to use the street for walking, playing, biking.
+Neighborways are created by painting streets and doing other interventions with the hope of calming traffic and getting more people to use the street for walking, playing, biking.
 
 <center>
 <img src="/img/neighborway_mural.jpg">

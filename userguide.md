@@ -7,7 +7,7 @@ permalink: /guides/userguide/
 
 This user guide walks through every step; opening the application, configuring the project, uploading the video for analysis, and viewing the analysis results.
 
-Explanations for the configuration values can be found either in the program with the **?** tooltip, or in the [configuration tables section found here](/guides/userguide/configtables).
+Explanations for the configuration values can be found either in the program with the **?** tool-tip, or in the [configuration tables section found here](/guides/userguide/configtables).
 
 ## Installation information
 
@@ -85,7 +85,7 @@ The image below shows the “Mapping” tab in the application, where the user w
 
 There are three panels in this tab. The panel on the far left contains an image from the video. The panel on the far right contains the aerial image. The center panel should be blank. The user can zoom in and out of these images using the “Zoom” sliders directly above each panel.
 
-To compute a mapping, the user selects four or more points in each image. These points should correspond to each other; for example, if the first point in the video image marks a streetlamp, the first point in the aerial image should mark the same exact streetlamp. Note that the user can select as few as four corresponding points in each image, but using more points will generate a more accurate mapping. We recommend selecting between 6 and 8 points.
+To compute a mapping, the user selects four or more points in each image. These points should correspond to each other; for example, if the first point in the video image marks a street-lamp, the first point in the aerial image should mark the same exact street-lamp. Note that the user can select as few as four corresponding points in each image, but using more points will generate a more accurate mapping. We recommend selecting between 6 and 8 points.
 
 These points should be as close to the same position as possible. If the user needs to move a point, simply click and drag the point to the appropriate location. If they need to delete a point, right-click on the point and it will disappear. The remaining points will renumber themselves.
 
