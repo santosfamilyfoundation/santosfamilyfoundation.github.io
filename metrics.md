@@ -6,6 +6,9 @@ permalink: /metrics/
 # Metrics
 Santos Traffic Platform produces metrics for anyone to run their own traffic study.
 
+<center>
+<img src="/img/metrics/tracking.gif" width="70%">
+</center>
 
 <center>
 <img src="/img/metrics/road_user_icon_counts.jpg" width="70%">
