@@ -9,18 +9,18 @@ Our team has developed user guides to many parts of our system to allow anyone w
 
 ## Camera Setup
 
-This discusses the quality of the footage needed to attain good analysis results. Any camera may be used, as long as they meet these specifications:
+This discusses the quality of the footage needed to attain good analysis results. Any camera may be used, as long as they meet these minimum specifications:
 
-|**Resolution** |**Framerate**| |**File Extension**  | 
+|**Resolution** |**Framerate**| |**File Extension**  |
 |>=720p|~30fps| |.AVI, .MP4 |
-| *This is important for image clarity. 1080p is better if pedestrian tracking is desired.* |*The framerate should be around 30fps. Higher values do not help with analysis and just make the saved video larger* | |*The software prefers these files but will work with others* |
+| *This is important for image clarity. 1080p is better if pedestrian tracking is desired.* |*The framerate should be around 30fps. Higher values do not help with analysis and just make the saved video larger.* | |*The software prefers these files but will work with others.* |
 
-In addition, the footage should be as still as possible. If the footage happens to shift due to wind or human intervention, try to use a smoothing process to rectify the motion. If it was unable to fix the motion, you can alternatively cut that segment out of the video. A [GoPro](https://gopro.com/) can meet all of these needs and is a great multiweather utility to have when recording footage outside.
+In addition, the footage should be as still as possible. If the footage happens to shift due to wind or human intervention, try to use a smoothing process to rectify the motion. If it was unable to fix the motion, you can alternatively cut that segment out of the video. A [GoPro](https://gopro.com/) can meet all of these needs and is a great multi-weather utility to have when recording footage outside.
 
 
 ## Camera Mounting
 
-We have investigated many solutions for capturing footage, including a standing platform on a flt roof, telescoping poles, and large camera stands. Telescoping poles and tripod camera stands, which will be deployed curbside, must be sufficiently tall enough to gather data from the entire intersection. We recommend being close to 30 feet high. An excellent choice for a tripod camera stand is the [MegaMount 28' telescoping stand](http://www.seaportdigital.com/27-5-8-4m-megamast-camera-stand.html). 
+We have investigated many solutions for capturing footage, including a standing platform on a flt roof, telescoping poles, and large camera stands. Telescoping poles and tripod camera stands, which will be deployed curbside, must be sufficiently tall enough to gather data from the entire intersection. We recommend being close to 30 feet high. An excellent choice for a tripod camera stand is the [MegaMount 28' telescoping stand](http://www.seaportdigital.com/27-5-8-4m-megamast-camera-stand.html).
 
 If your town allows it, attaching to lighting fixtures like road lights or traffic signals can provide more affordable alternatives for mounting cameras. One recommendation is the [WonderPole 21' Camera Ready Pole](https://www.wonderpole.com/camera-pole/). This is a bit shorter than the 30' recommendation but due to the proximity to the intersection, should still be sufficient to capture data with the proper angle.
 

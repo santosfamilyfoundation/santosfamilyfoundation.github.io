@@ -4,7 +4,7 @@ layout: page
 
 # Improving Transportation Safety through Data-Driven Technologies
 
-Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, bikers, and pedestrians. Every year, there are more than 30,000 traffic fatalities in the United States.  Several of those fatalities might happen this year at the intersections close to our homes, areas we hope to be safe.
+Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, bikers, and pedestrians. Every year, there are more than 30,000 traffic fatalities in the United States. Several of those fatalities might happen this year at the intersections close to our homes, areas we assume to be safe.
 
 People are already engaged in improving infrastructure and can create safer intersections more quickly if they have access to affordable traffic data.
 
@@ -16,18 +16,18 @@ People are already engaged in improving infrastructure and can create safer inte
 
 This is where the Santos Platform can make change. This cloud-based software platform provides safety metrics from visual traffic data to those who are concerned with traffic safety. Continue reading below to learn more about the software, or **start using it** by
 - [collecting video](/guides/datacollection/) or
-- [installing the components](/guides/userguide/) on your machine.
+- [installing the components](/guides/userguide/) on your computer.
 
-If you are a **developer** interested in this open-source project, you can 
-- [visit our page for developers](/contributing/) or 
+If you are a **developer** interested in this open-source project, you can
+- [visit our page for developers](/contributing/) or
 - [meetup in person during Code For Boston's Hack Nights](https://www.meetup.com/Code-for-Boston/) if you are located in the Boston or Cambridge area.
 
 As well, we have a number of **pilot programs** starting in the general Boston area. If you are interested in getting involved,
 - [reach out](mailto:{{ site.email }}) to get a project started or
 - [read about our other studies](/users/) and where we are heading.
 
-## Anyone can participate in collecting metrics that will lead to measurable change
-Our software works with video footage recorded on many different devices.  All someone needs is to start recording from a second-story view point.
+## Anyone can participate in collecting metrics that will lead to measurable change.
+Our software works with video footage recorded through many different devices. All someone needs is to start recording from a good vantage point to completely see the whole intersection.
 
 <center><img src="img/second-story-viewpoint.png" width="450"></center><br/>
 

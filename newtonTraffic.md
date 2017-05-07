@@ -10,16 +10,16 @@ Traffic Engineers are blocked without access to quantitative, effective data tha
 We met with engineers and planners from Newton, MA to discuss our system and the ways in which it could help them make intersections
 safer.
 
-## Look at the Whole Picture
+## Looking at the whole picture
 
-According to one of Newton's engineers, there is not an automated system that tracks bikes and pedestrians as well as cars. They 
+According to one of Newton's engineers, there is not an automated system that tracks bikes and pedestrians as well as cars. They
 have systems in place to do both, but no system can unify these counts. Bikes and pedestrians are the most vulnerable users at
 intersections, so it is crucial to have a system that can give you a fuller picture of their experience using an intersection.
 
 ## Finding Effective Traffic Interventions
 
-Newton's traffic department often pilots traffic interventions, which are various changes intended to alter the behavior of 
-road users at an intersection. For example, they might create a temporary bump-out around a curb, or paint a suggested lane for turning
+Newton's traffic department often pilots traffic interventions, which are various changes intended to alter the behavior of
+road users at an intersection. For example, they might create a temporary bump-out around a curb or paint a suggested lane for turning
 cars. However, they don't have access to quantitative data that shows the effects of these intervention -- they rely on their own
 observations to determine the effectiveness of the intervention.
 

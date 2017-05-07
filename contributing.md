@@ -6,11 +6,11 @@ permalink: /contributing/
 
 # Contribute to Santos Traffic Platform
 
-_If you are interested in __only using__ the software and __not modifying the code__, please see our [downloads page](/downloads/)_
+_If you are interested in __only using__ the software and __not modifying the code__, please see our [downloads page.](/downloads/)_
 
 ## Setup Guide
 
-### Front-End Dev
+### Front-End Development
 
 If you are only interested in improving the front end, __it is not required to install SantosCloud__. A cloud instance is running and is accessible at __http://server.santostraffic.com__.
 
@@ -19,7 +19,7 @@ If you are only interested in improving the front end, __it is not required to i
 3. When creating a new project, point to __http://server.santostraffic.com__.
 4. Learn more about the cloud API by reading the [SantosCloud API docs](http://santostraffic.com/SantosCloud/app/static/apidoc/).
 
-### Full-Stack Dev
+### Full-Stack Development
 
 For running the server code locally, we setup a Vagrant box running the server.
 
